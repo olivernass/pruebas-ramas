@@ -8,5 +8,6 @@ namespace ProbandoDominio
 {
     internal class DominioPrueba
     {
+        public int asd { get; set; }
     }
 }
